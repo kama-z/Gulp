@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    max-width: 1230px;
+    min-width: 320px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+body {
+    background-color: #00FFFFFF;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+footer {
+    font-size: 32px;
+    text-align: center;
+    color: #000000;
+    font-weight: 700;
+}
+header {
+    font-size: 32px;
+    text-align: center;
+    color: #000000;
+    font-weight: 700;
+}
